@@ -20,7 +20,7 @@
 
 ## 已总结的库
 
-- [fmt]()
+- [fmt](./fmt/fmt.md)
 - [Time]()
 - [Flag]()
 - [Log]()
