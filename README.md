@@ -22,9 +22,9 @@ Speed up !! Come on ! 💪💪
 ## fucked lib
 
 - [fmt](./fmt/fmt.md)
-- [Time](./time/time.md)
-- [Flag](./flag/flag.md)
-- [Log]()
+- [time](./time/time.md)
+- [flag](./flag/flag.md)
+- [log](./log/log.md)
 
 
 ## License

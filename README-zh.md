@@ -12,9 +12,9 @@
 
 本项目将会长期保持更新， `go` 库学习
 
-道路不停止，代码不停敲， `Click,click,click...`
+话不多说，实战为主， `Click,click,click...`
 
-所有均是作者个人总结的成果，菜鸟有个大神梦💫
+菜鸟有个大神梦💫
 
 加油干！💪💪
 
@@ -23,7 +23,7 @@
 - [fmt](./fmt/fmt.md)
 - [Time](./time/time.md)
 - [Flag](./flag/flag.md)
-- [Log]()
+- [Log](./log/log.md)
 
 ## License
 
