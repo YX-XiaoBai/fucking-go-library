@@ -1,0 +1,8 @@
+2020/11/23 16:07:32.834701 /Users/lidean/github_project/fucking-go-library/log/main/log.go:48: This is a normal log
+[pprof]2020/11/23 16:07:32.834844 /Users/lidean/github_project/fucking-go-library/log/main/log.go:50: This is a normal log
+2020/11/23 16:07:43.053118 /Users/lidean/github_project/fucking-go-library/log/main/log.go:48: This is a normal log
+[pprof]2020/11/23 16:07:43.053304 /Users/lidean/github_project/fucking-go-library/log/main/log.go:50: This is a normal log
+2020/11/23 16:07:46.737647 /Users/lidean/github_project/fucking-go-library/log/main/log.go:48: This is a normal log
+[pprof]2020/11/23 16:07:46.737775 /Users/lidean/github_project/fucking-go-library/log/main/log.go:50: This is a normal log
+2020/11/23 16:08:44.167391 /Users/lidean/github_project/fucking-go-library/log/main/log.go:48: This is a normal log
+[XiaoBai]2020/11/23 16:08:44.167507 /Users/lidean/github_project/fucking-go-library/log/main/log.go:50: This is a normal log
