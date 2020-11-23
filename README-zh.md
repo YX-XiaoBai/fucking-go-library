@@ -21,8 +21,8 @@
 ## 已总结的库
 
 - [fmt](./fmt/fmt.md)
-- [Time]()
-- [Flag]()
+- [Time](./time/time.md)
+- [Flag](./flag/flag.md)
 - [Log]()
 
 ## License

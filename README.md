@@ -22,8 +22,8 @@ Speed up !! Come on ! 💪💪
 ## fucked lib
 
 - [fmt](./fmt/fmt.md)
-- [Time]()
-- [Flag]()
+- [Time](./time/time.md)
+- [Flag](./flag/flag.md)
 - [Log]()
 
 
