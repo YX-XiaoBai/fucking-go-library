@@ -14,7 +14,7 @@ func main() {
 	//os.Stdin.WriteString(string(buf[:]))
 
 	// Open()
-	//file, err := os.Open("./io.go")
+	//file, err := os.Open("./os.go")
 	//if err != nil {
 	//	fmt.Println("open file failed! Error:", err)
 	//	return
@@ -23,7 +23,7 @@ func main() {
 	//file.Close()
 
 	// OpenFile()
-	//file1, err := os.OpenFile("io.log", os.O_RDONLY|os.O_CREATE, 0755)
+	//file1, err := os.OpenFile("os.log", os.O_RDONLY|os.O_CREATE, 0755)
 	//if err != nil {
 	//	log.Fatal("Error:", err)
 	//}
@@ -34,7 +34,7 @@ func main() {
 	//fmt.Println("close file1 success")
 
 	// WriteXx() & Create()
-	//file, err := os.Create("./io.txt")
+	//file, err := os.Create("./os.txt")
 	//if err != nil {
 	//	fmt.Println(err)
 	//	return
@@ -47,7 +47,7 @@ func main() {
 	//file.WriteAt([]byte("fe"), 3)
 
 	// Read() & ReadAt()
-	//file, err := os.Open("./io.txt")
+	//file, err := os.Open("./os.txt")
 	//if err != nil {
 	//	fmt.Println("open file err:", err)
 	//	return
@@ -59,7 +59,7 @@ func main() {
 	//	n, err := file.Read(buf[:])
 	//	//n, err := file.ReadAt(buf[:], int64(0))
 	//	//fmt.Println(string(buf[:n]))
-	//	if err == io.EOF {
+	//	if err == os.EOF {
 	//		break
 	//	}
 	//	if err != nil{
@@ -72,7 +72,7 @@ func main() {
 	//fmt.Println(string(content))
 
 	// 拷贝文件
-	srcFile, err := os.Open("./io.txt")
+	srcFile, err := os.Open("./os.txt")
 	if err != nil {
 		fmt.Println("E1:", err)
 		return

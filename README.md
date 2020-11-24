@@ -23,12 +23,14 @@ Speed up !! Come on ! 💪💪
 
 The source code has been annotated, if function needs to be debugged can be uncommented, then Run it
 
-- [fmt](./fmt/fmt.md)
-- [time](./time/time.md)
-- [flag](./flag/flag.md)
-- [log](./log/log.md)
-- [io](./io/io.md)
-
+- [fmt](fmt/fmt.md)
+- [time](time/time.md)
+- [flag](flag/flag.md)
+- [log](log/log.md)
+- [io_option](io_option/)
+    - [bufio](io_option/bufio/bufio.md)
+    - [ioutil](io_option/ioutil/ioutil_.md)
+    - [os](io_option/os/os.md)
 
 ## License
 
