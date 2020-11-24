@@ -21,7 +21,7 @@ Speed up !! Come on ! 💪💪
 
 ## fucked lib
 
-The source code has been annotated, if function needs to be debugged can be uncommented, then Run it
+The source code has been annotated, if function needs to be debugged can be uncommented, then Run it !
 
 - [fmt](fmt/fmt.md)
 - [time](time/time.md)
