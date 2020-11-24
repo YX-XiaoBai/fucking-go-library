@@ -20,6 +20,8 @@
 
 ## 已总结的库
 
+源码都进行了注释，需要调试哪个功能取消注释，运行即可
+
 - [fmt](./fmt/fmt.md)
 - [Time](./time/time.md)
 - [Flag](./flag/flag.md)

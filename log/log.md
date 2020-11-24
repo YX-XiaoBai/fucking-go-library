@@ -1,5 +1,8 @@
 # log
 
+> implements a simple logging package
+> 实现一个简单的日志记录包
+
 `Go`语言内置的`log`包实现了简单的日志服务
 
 ## 使用Logger

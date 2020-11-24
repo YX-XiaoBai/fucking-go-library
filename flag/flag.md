@@ -1,5 +1,8 @@
 # flag
 
+> implements command-line flag parsing
+> 实现命令行分析
+
 ## 简介
 
 `Go`语言内置的`flag`包实现了命令行参数的解析，`flag`包使得开发命令行工具更为简单

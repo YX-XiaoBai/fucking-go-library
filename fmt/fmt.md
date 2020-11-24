@@ -1,5 +1,8 @@
 # fmt
 
+> implements formatted I/O with functions analogous to C's printf and scanf.
+> 使用类似于C的printf和scanf函数实现格式化的I/O。
+
 实现了类似 `C` 的 `prinf` 和 `scanf` 的格式化 `I/O`，主要为 向外输出内容 和 获取输入内容 两部分
 
 ## 向外输出
