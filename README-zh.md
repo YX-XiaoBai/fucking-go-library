@@ -31,6 +31,7 @@
     - [os](io_option/os/os.md)
 - [stronv](strconv/strconv.md)
 - [template](template/template.md)
+- [http](http/http.md)
 
 ## License
 
