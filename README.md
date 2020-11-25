@@ -32,6 +32,7 @@ The source code has been annotated, if function needs to be debugged can be unco
     - [ioutil](io_option/ioutil/ioutil_.md)
     - [os](io_option/os/os.md)
 - [stronv](strconv/strconv.md)
+- [template](template/template.md)
 
 ## License
 

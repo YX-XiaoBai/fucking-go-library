@@ -31,6 +31,7 @@
     - [ioutil](io_option/ioutil/ioutil_.md)
     - [os](io_option/os/os.md)
 - [stronv](strconv/strconv.md)
+- [template](template/template.md)
 
 ## License
 
