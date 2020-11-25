@@ -1,5 +1,7 @@
 # log
 
+- [源码地址](./main)
+
 > implements a simple logging package
 > 实现一个简单的日志记录包
 

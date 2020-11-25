@@ -1,5 +1,7 @@
 # io_option
 
+- [源码地址](./main)
+
 一些在进行文件读写时用的库
 
 - [bufio](io_option/bufio/bufio.md)

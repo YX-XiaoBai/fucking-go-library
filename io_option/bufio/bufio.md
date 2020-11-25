@@ -1,5 +1,7 @@
 # bufio
 
+- [源码地址](./main)
+
 > implements buffered I/O. It wraps an io.Reader or io.Writer object, creating another object (Reader or Writer) that also implements the interface
 > 实现缓冲I/O。它包装io.Reader或者io.Writer对象，创建另一个同样实现接口的对象（读取器或编写器）
 

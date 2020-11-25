@@ -1,5 +1,7 @@
 # fmt
 
+- [源码地址](./main)
+
 > implements formatted I/O with functions analogous to C's printf and scanf.
 > 使用类似于C的printf和scanf函数实现格式化的I/O。
 
