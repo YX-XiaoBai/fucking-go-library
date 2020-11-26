@@ -29,10 +29,12 @@
     - [bufio](io_option/bufio/bufio.md)
     - [ioutil](io_option/ioutil/ioutil_.md)
     - [os](io_option/os/os.md)
-- [stronv](strconv/strconv.md)
+- [strconv](strconv/strconv.md)
 - [template](template/template.md)
 - [http](http/http.md)
 - [datatype](datatype/datatype.md)
+- [reflect](reflect/reflect.md)
+    - [reflect_practice](reflect_practice/)
 
 ## License
 
