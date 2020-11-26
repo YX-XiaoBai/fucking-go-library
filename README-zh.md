@@ -32,6 +32,7 @@
 - [stronv](strconv/strconv.md)
 - [template](template/template.md)
 - [http](http/http.md)
+- [datatype](datatype/datatype.md)
 
 ## License
 

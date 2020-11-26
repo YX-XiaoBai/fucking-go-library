@@ -32,6 +32,7 @@ The source code has been annotated, if function needs to be debugged can be unco
 - [stronv](strconv/strconv.md)
 - [template](template/template.md)
 - [http](http/http.md)
+- [datatype](datatype/datatype.md)
 
 ## License
 
